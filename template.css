@@ -108,10 +108,10 @@ nav{
     padding: 64;
     font-size: 15px;
     line-height: 1.5;
-    font-family: Verdana,sans-serif ;
+    font-family: "Segoe UI",Arial,sans-serif ;
 }
 h3{
-    font-family: Verdana,sans-serif;    
+    font-family: "Segoe UI",Arial,sans-serif ;    
 
 }
 
@@ -140,4 +140,413 @@ h4{
 h3{
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px ;
+}
+.row{
+    display: table;
+    clear: both;
+    font-family: cursive;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px ;
+    height: 520;
+
+}
+.column1{
+    float: left;
+    width:24.99999%;
+    padding: 10px ;
+    height: 520;
+    
+    
+    
+}
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: white
+    
+
+}
+p2{
+    font-size: 15;
+    font-family: cursive;
+    color: white;
+    font: outline;
+    
+}
+.row img{
+    width: 100%;
+}
+.row p{
+    background-color: white;
+    height: 40;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.row h2{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    height: 60;
+    line-height: 1.5;
+    
+}
+.pricing{
+    text-align: center;
+    padding: 64;
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: Verdana,sans-serif ;
+}
+
+h6{
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+    font-size: 35px;
+}
+table{
+    margin-left: 60px;
+    display: inline;
+    border: black;
+    border-collapse: collapse;
+    
+}
+th{
+    padding: 17px 132px;
+    
+}
+
+tr{
+    font-family:Verdana,sans-serif; 
+    font-size: 15px;
+}
+.sign{
+    padding: 10px 25px;
+    background-color: rgb(42, 160, 167);
+    font-family: Verdana,sans-serif;
+    font-size: 17px;
+    color: white;
+}
+.signup :hover{
+    background-color: rgb(233, 223, 235);
+     color:gray;
+}
+.basic{
+    color: white;
+    font-family: Verdana','sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    background-color: black;
+    font-weight: inherit;
+}
+.basic1{
+    padding: 30px;
+    background-color: black;
+    font-size: 24px!important ;
+}
+.pro1{
+    padding: 35px;
+    background-color:rgb(70, 68, 68);
+    color: white;
+    font-size: 24px!important;
+    font-family: Verdana,sans-serif;
+    
+}
+.premium1{
+
+ padding: 35px;
+    background-color:black;
+    color: white;
+    font-family: Verdana','sans-serif ;
+    font-size: 24px!important ;
+}
+.signup{
+    background-color:rgb(240, 240, 240) ;
+
+}
+.Dollar{
+    font-family: Verdana,sans-serif;
+  font-size: 24px!important ;
+  font-weight: lighter;
+}
+
+table, td, th {
+    border: 1px solid rgb(216, 216, 216);
+}
+
+#inf{
+    background-color: rgb(240, 240, 240);
+  height: 450px;
+  
+}
+.fa-map-marker{
+    color: rgb(42, 160, 167);
+    font-size: 25px;
+    margin-left: 15px;
+}
+.fa-phone{
+    color: rgb(42, 160, 167);
+  font-size: 25px;
+  margin-left: 15px;
+}
+.fa-evelope{
+    color: rgb(42, 160, 167);
+  font-size: 25px;
+  margin-left: 15px;
+}
+ .fa-envelope{
+
+color: rgb(42, 160, 167);
+  font-size: 25px;
+  margin-left: 15px;
+}
+.c{
+    font-family: Verdana','sans-serif;
+  font-size: 23px;
+  border-bottom: rgb(42, 160, 167) solid 6px;
+  margin-left: 15px;
+}
+.s{
+    font-family: Verdana','sans-serif;
+  font-size: 20px;
+  margin-left: 15px;
+}
+
+.a{
+    font-family: Verdana','sans-serif;
+  font-size: 20px;
+  margin-left: 15px;
+}
+#abc{
+    float: left ;
+    display: inline;
+    text-align: left;
+}
+.c{
+    margin-left: 15px ;
+}
+form{
+    background-color: white;
+  margin-left: 530px;
+  width: 700px;
+  height: 320px;
+  box-shadow: 10px 10px 20px 10px rgb(194, 192, 192);
+
+}
+
+.name{
+    font-family: comic;
+  font-size: 18px;
+  margin-left: 15px;
+  margin-top: 40px;
+}
+
+.fname{
+    margin-left: 15px;
+  margin-top: 10px;
+  width: 670px
+}
+
+#lala{
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 10px;
+    transform: scale(2.5);
+}
+input{
+    height: 30px;
+  background-color: transparent;
+  border: 0px solid; 
+  border-bottom: 1px solid rgb(187, 1)
+}
+
+input :focus{
+    border-color: rgb(15, 15, 15) ;
+}
+.pic{
+    height: 700px;
+    width: 100%;
+    filter: grayscale(50%);
+}
+name2{
+    margin-left: 15px;
+    margin-top: 10px;
+    width: 670px
+}
+form{
+    border: 1px solid rgb(216, 216, 216);
+    
+}
+#info{
+    background-color: #f0f0f0 !important;
+    padding-top: 64px!important;
+    padding-bottom: 64px!important;
+
+    display: block;
+    clear: both;
+    box-sizing: inherit;
+    box-sizing: border-box;
+}
+.box{
+    display: table;
+    clear: both;
+    display: inline;
+    border: 1px solid rgb(216, 216, 216);
+    padding-top: 16px!important;
+    padding-bottom: 16px!important;
+
+}
+.fa-facebook{
+    color: white;
+    background-color: #009688!important;
+    font-size: 18px !important;
+    border-image-repeat: stretch;
+    box-sizing: inherit;
+    line-height: 27px;
+    display: inline-block;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-bottom:8px;
+padding-left:16px;
+padding-right:16px;
+padding-top:8px;
+text-align:center;
+text-decoration-color:rgb(255, 255, 255);
+text-decoration-line:none;
+text-decoration-style:solid;
+text-size-adjust:100%;
+user-select:none;
+vertical-align:middle;
+white-space:nowrap;
+line-height:27px;
+overflow-x:hidden;
+overflow-y:hidden;
+}
+.fa-twitter{
+    color: white;
+    background-color: #009688!important;
+    font-size: 18px !important;
+    border-image-repeat: stretch;
+    box-sizing: inherit;
+    line-height: 27px;
+    display: inline-block;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-bottom:8px;
+padding-left:16px;
+padding-right:16px;
+padding-top:8px;
+text-align:center;
+text-decoration-color:rgb(255, 255, 255);
+text-decoration-line:none;
+text-decoration-style:solid;
+text-size-adjust:100%;
+user-select:none;
+vertical-align:middle;
+white-space:nowrap;
+line-height:27px;
+overflow-x:hidden;
+overflow-y:hidden;
+}
+.fa-google-plus{
+    color: white;
+    background-color: #009688!important;
+    font-size: 18px !important;
+    border-image-repeat: stretch;
+    box-sizing: inherit;
+    line-height: 27px;
+    display: inline-block;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-bottom:8px;
+padding-left:16px;
+padding-right:16px;
+padding-top:8px;
+text-align:center;
+text-decoration-color:rgb(255, 255, 255);
+text-decoration-line:none;
+text-decoration-style:solid;
+text-size-adjust:100%;
+user-select:none;
+vertical-align:middle;
+white-space:nowrap;
+line-height:27px;
+overflow-x:hidden;
+overflow-y:hidden;
+}
+.fa-instagram{
+    color: white;
+    background-color: #009688!important;
+    font-size: 18px !important;
+    border-image-repeat: stretch;
+    box-sizing: inherit;
+    line-height: 27px;
+    display: inline-block;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-bottom:8px;
+padding-left:16px;
+padding-right:16px;
+padding-top:8px;
+text-align:center;
+text-decoration-color:rgb(255, 255, 255);
+text-decoration-line:none;
+text-decoration-style:solid;
+text-size-adjust:100%;
+user-select:none;
+vertical-align:middle;
+white-space:nowrap;
+line-height:27px;
+overflow-x:hidden;
+overflow-y:hidden;
+}
+.fa-linkedin{
+    color: white;
+    background-color: #009688!important;
+    font-size: 18px !important;
+    border-image-repeat: stretch;
+    box-sizing: inherit;
+    line-height: 27px;
+    display: inline-block;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-bottom:8px;
+padding-left:16px;
+padding-right:16px;
+padding-top:8px;
+text-align:center;
+text-decoration-color:rgb(255, 255, 255);
+text-decoration-line:none;
+text-decoration-style:solid;
+text-size-adjust:100%;
+user-select:none;
+vertical-align:middle;
+white-space:nowrap;
+line-height:27px;
+overflow-x:hidden;
+overflow-y:hidden;
+}
+.footer{
+   text-align: center;
+   background-color: black;
+   color: white;
+   padding: 55;
+   box-sizing: border-box;
+   display: block;
+   font-size:15px;
+   height:260.4px;
+   line-height:22.5px;
+   padding-bottom:32px;
+   padding-left:16px;
+   padding-right:16px;
+   padding-top:32px;
+   text-align:center;
+   text-size-adjust:100%;
+}
+
+.signup :hover{
+    color: gray;
 }
